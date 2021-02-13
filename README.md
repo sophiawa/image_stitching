@@ -42,21 +42,21 @@ operations and PIL Image for image loading/drawing/saving.
 Flag
 
 Original Images
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flags_left.jpg?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flags_right.jpg?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flags_left.jpg?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flags_right.jpg?raw=true)
 
 Output
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_matches.png?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_mosaic.png?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flag_matches.png?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flag_mosaic.png?raw=true)
 
 
 Window
 
 Original Images
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_left.jpg?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_right.jpg?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_left.jpg?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_right.jpg?raw=true)
 
 Output
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_matches.png?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_mosaic.png?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_matches.png?raw=true)
+![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_mosaic.png?raw=true)
 
