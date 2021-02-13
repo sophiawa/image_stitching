@@ -35,22 +35,22 @@ operations and PIL Image for image loading/drawing/saving.
 
 Original Images
 ![image](flag_images/flags_left.jpg)
-![alt text](flag_images/flags_right.jpg?raw=true=100x100)
+![alt text](flag_images/flags_right.jpg=50x50)
 
 Matching Feature Descriptor Pairs
-![alt text](flag_images/flag_matches.png?raw=true)
+![alt text](flag_images/flag_matches.png)
 Mosaic
-![alt text](flag_images/flag_mosaic.png?raw=true)
+![alt text](flag_images/flag_mosaic.png)
 
 
 ##Window
 
 Original Images
-![alt text](window_images/window_left.jpg?raw=true)
-![alt text](window_images/window_right.jpg?raw=true)
+![alt text](window_images/window_left.jpg)
+![alt text](window_images/window_right.jpg)
 
 Matching Feature Descriptor Pairs
-![alt text](window_images/window_matches.png?raw=true)
+![alt text](window_images/window_matches.png)
 Mosaic
-![alt text](window_images/window_mosaic.png?raw=true)
+![alt text](window_images/window_mosaic.png)
 
