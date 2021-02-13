@@ -31,27 +31,26 @@ operations and PIL Image for image loading/drawing/saving.
 
 # Example Outputs
 
-##Flag
+## Flag
 
-Original Images
-<img src="flag_images/flags_left.jpg" width="100" height="100"/>
-![image](flag_images/flags_left.jpg)
+### Original Images
+![alt text](flag_images/flags_left.jpg)
 ![alt text](flag_images/flags_right.jpg)
 
-Matching Feature Descriptor Pairs
+### Matching Feature Descriptor Pairs
 ![alt text](flag_images/flag_matches.png)
-Mosaic
+### Mosaic
 ![alt text](flag_images/flag_mosaic.png)
 
 
-##Window
+## Window
 
-Original Images
+### Original Images
 ![alt text](window_images/window_left.jpg)
 ![alt text](window_images/window_right.jpg)
 
-Matching Feature Descriptor Pairs
+### Matching Feature Descriptor Pairs
 ![alt text](window_images/window_matches.png)
-Mosaic
+### Mosaic
 ![alt text](window_images/window_mosaic.png)
 
