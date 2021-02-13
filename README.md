@@ -1,12 +1,4 @@
-# Automatic Image Stitching Project
-
-
-### Table of Contents
-* [Overview](https://github.com/sophiawa/image-stitching#overview)
-* [Example Outputs](https://github.com/sophiawa/image-stitching#example-output)
-
-
-## Overview
+# Overview
 
 This was a 1 week long project for a research lab coding challenge. 
 The goal was to implement a program that finds matching feature descriptors between
@@ -37,26 +29,26 @@ The language used in this project is Python, while using libraries numpy for arr
 operations and PIL Image for image loading/drawing/saving.
 
 
-## Example Outputs
+# Example Outputs
 
-Flag
+##Flag
 
 Original Images
 ![image](flag_images/flags_left.jpg)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flags_right.jpg?raw=true)
+![alt text](flag_images/flags_right.jpg?raw=true)
 
 Output
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flag_matches.png?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flag_mosaic.png?raw=true)
+![alt text](flag_images/flag_matches.png?raw=true)
+![alt text](flag_images/flag_mosaic.png?raw=true)
 
 
-Window
+##Window
 
 Original Images
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_left.jpg?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_right.jpg?raw=true)
+![alt text](window_images/window_left.jpg?raw=true)
+![alt text](window_images/window_right.jpg?raw=true)
 
 Output
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_matches.png?raw=true)
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/window_images/window_mosaic.png?raw=true)
+![alt text](window_images/window_matches.png?raw=true)
+![alt text](window_images/window_mosaic.png?raw=true)
 
