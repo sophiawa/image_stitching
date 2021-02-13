@@ -42,7 +42,7 @@ operations and PIL Image for image loading/drawing/saving.
 Flag
 
 Original Images
-![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flags_left.jpg?raw=true)
+![image](flag_images/flags_left.jpg)
 ![alt text](https://github.com/sophiawa/image_stitching/tree/main/flag_images/flags_right.jpg?raw=true)
 
 Output
