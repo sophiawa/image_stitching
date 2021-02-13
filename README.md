@@ -31,7 +31,7 @@ operations and PIL Image for image loading/drawing/saving.
 
 # Example Outputs
 
-## Flag
+## Example 1
 
 ### Original Images
 ![alt text](flag_images/flags_left.jpg)
@@ -43,7 +43,7 @@ operations and PIL Image for image loading/drawing/saving.
 ![alt text](flag_images/flag_mosaic.png)
 
 
-## Window
+## Example 2
 
 ### Original Images
 ![alt text](window_images/window_left.jpg)
